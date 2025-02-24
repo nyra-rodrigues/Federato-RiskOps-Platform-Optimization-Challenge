@@ -1,6 +1,6 @@
 # Federato RiskOps Platform Optimization Challenge
 
-This repository contains the solution to the **Federato RiskOps Platform Optimization Challenge**, where I analyzed user interaction data from the Federato RiskOps platform to identify patterns and optimize user engagement.
+This repository contains the solution to the **Federato RiskOps Platform Optimization Challenge**, where we analyzed user interaction data from the Federato RiskOps platform to identify patterns and optimize user engagement.
 
 ## Challenge Overview
 
